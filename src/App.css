@@ -1,0 +1,39 @@
+.App{
+    height: 100vh;
+    padding-top: 100px;
+    background-image: url("https://www.helbreath.net/img/bck.jpg?2");
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.lbmcoding-logo-contenedor{
+    width: 100%;
+    height: 50px;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lbmcoding-logo{
+    height: 100px;
+}
+.contenedor-calculadora{
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #010911;
+    opacity: 70%;
+    border-radius: 20px;
+    border: 2px solid rgb(59, 35, 2);
+}
+
+.fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
